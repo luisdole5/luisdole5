@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+<h1>Hi, I'm Luis Donadiós León 👋</h1>
 
-<!--
-**luisdole5/luisdole5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Student of Computer Engineering | Technology and Software enthusiast</h3>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>About me</h4>
+<p>I'm a Computer Engineering student at UC3M. I'm that kind of person who genuinely loves coding and is always up for a new challenge or learning opportunity, since I'm a passionate learner.</p>
+<p>I love the idea of bringing ideas to life through code and I'm currently focused on personal proyects which help me learn and explore new fields.</p>
+<p>My future goal is to specialize in Cybersecurity.</p>
+<br>
+<h5>Hobbies:</h5>
+<p>Outside my studies, some of my hobbies are:</p>
+<ul>
+  <li>Videogames</li>
+  <li>Music</li>
+  <li>Board Games</li>
+</ul>
