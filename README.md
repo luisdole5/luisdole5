@@ -61,3 +61,26 @@
     <td></td>
   </tr>
 </table>
+<br>
+<h3>My Proyects</h3>
+<div align="center">
+  <button>Button for the proyects</button>
+</div>
+<br>
+<h3>Contact me</h3>
+<div align="center">
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/LinkedIn-Logo.png" width="100">
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Mail.svg" width="100">
+  </a>
+</div>
+<br>
+<h3>GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisdole5&show_icons=true&theme=tokyonight" alt="luisdole5's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdole5&layout=compact&theme=tokyonight" alt="luisdole5's Top Languages" />
+</div>
